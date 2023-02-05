@@ -1,2 +1,2 @@
-# dotfiles
-All my important config files of modifications to macOS and Linux
+# My DotFiles
+This repo is a collection of my config files or **dotfiles**. 
